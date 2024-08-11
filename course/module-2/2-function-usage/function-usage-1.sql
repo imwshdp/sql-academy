@@ -1,0 +1,1 @@
+SELECT lOWER("Hello world") AS lower_string
