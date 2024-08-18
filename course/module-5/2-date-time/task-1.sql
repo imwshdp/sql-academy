@@ -1,0 +1,1 @@
+SELECT STR_TO_DATE('Date: 31 December 2023', 'Date: %d %M %Y') AS date
