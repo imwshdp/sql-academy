@@ -1,0 +1,4 @@
+SELECT DISTINCT trip,
+	COUNT(*) AS COUNT
+FROM Pass_in_trip
+GROUP BY trip
